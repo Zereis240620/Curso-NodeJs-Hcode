@@ -1,0 +1,11 @@
+{
+  "name": "cursonodejs",
+  "version": "1.0.0",
+  "description": "Curso Nodejs",
+  "main": "OlaMundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ze Reis M.",
+  "license": "ISC"
+}
